@@ -1,6 +1,6 @@
-package loader
+package com.unraveldata.loader
 
-import org.apache.spark.{TaskContext, Partition}
+import org.apache.spark.{Partition, TaskContext}
 
 /**
  * Created by dhiraj on 3/20/15.
